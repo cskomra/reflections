@@ -1,0 +1,9 @@
+What happens when you initialize a repository?  Why do you need to do it?
+
+Git creates a file in the directory called .git.  It then used that file to keep track of changes made to other files that are registered as 'tracked' by Git.
+
+How is the staging area different from the working directory and the repository?  What value do you think it offers?
+
+When you add a file to the staging area, you tell Git:  Track changes on this file from this date.
+The staging area is an easy way to let Git know this information.
+
