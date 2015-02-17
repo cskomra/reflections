@@ -7,7 +7,7 @@ If so, ok.  If not, then bug candidate.
 
 How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
 
-Each time I need to find where something went wrong wrong, 
+Each time I need to find where something went wrong wrong,
 I could save a small amount of time by using version control product.
 Over time, this small amount of time multiplied many times over
 will save me a lot of time.
@@ -23,13 +23,9 @@ Google Docs is used to create one-off documents.  But Git is used to create code
 
 How can you use the commands git log and git diff to view the history of files?
 
-Use git log to see what files have changed.  Pick two of those to compare 
-their history.
-How might using version control make you more confident to make changes 
-that could break something?
+Use git log to see what files have changed.  Pick two of those to compare their history.  How might using version control make you more confident to make changes that could break something?
 
-I don't have to worry about breaking something because I can (relatively) easily
- get back to a working version using Git.
+I don't have to worry about breaking something because I can (relatively) easily get back to a working version using Git.
 
 Now that you have your workspace set up, what do you want to try using Git for?
 
